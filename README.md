@@ -1,4 +1,14 @@
-# Lab 1 – Requirements Engineering & UML Use-Case Modelling
+# Software Engineering Labs 1–3 – Restaurant Table Booking & Pre-Ordering App
+
+| Folder | Lab |
+|---|---|
+| [`Lab1`](Lab1) | Lab 1 – Requirements Engineering & UML Use-Case Modelling |
+| [`Lab2`](Lab2) | Lab 2 – Jira: Kanban, Scrum (sprints, story points, burndown) and Bug Tracking |
+| [`Lab3`](Lab3) | Lab 3 – Architectural Pattern Selection & Component Diagram |
+
+---
+
+## Lab 1 – Requirements Engineering & UML Use-Case Modelling
 
 **Course:** Software Engineering  
 **Institution:** PES University  

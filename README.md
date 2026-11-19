@@ -47,7 +47,7 @@ The proposed system allows diners to select tables using an interactive 2D floor
 
 ## Repository Structure
 
-All project deliverables are available inside the `Lab-1_Requirements_Engineering` folder.
+All project deliverables are available inside the `Lab1` folder (Lab 2 in `Lab2`, Lab 3 in `Lab3`).
 
 ---
 

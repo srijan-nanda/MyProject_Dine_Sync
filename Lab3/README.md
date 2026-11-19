@@ -58,7 +58,7 @@ Separating responsibilities also helps performance tuning. Frequently requested 
 ## 7. Repository Structure
 
 ```text
-Lab-1-Requirements-Engineering/
+Lab1_Srijan_Kumar_PES1UG24CS467/
 └── Lab3/
     ├── README.md
     ├── Component_Diagram.pdf
